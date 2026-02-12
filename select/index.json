@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "怪盗ミラクル少年ボーイ",
+  "base_artist": "アルカライダー",
+  "createdAt": "2026-02-12T15:35:17.136469Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "怪盗ミラクル少年ボーイ",
+      "artist": "アルカライダー",
+      "has_synced": false,
+      "path": "select/pl_01_怪盗ミラクル少年ボーイ_アルカライダー.txt"
+    }
+  ]
+}
